@@ -67,5 +67,5 @@
 <p align="center">
   <img width="420" height="280" src="https://github.com/Anteii/HPC-Labs/blob/main/lab1/resources/cpu_time_3d.png">
   <img width="420" height="280" src="https://github.com/Anteii/HPC-Labs/blob/main/lab1/resources/gpu_time_3d.png">
-  <img width="420" height="280" src="https://github.com/Anteii/HPC-Labs/blob/main/lab1/resources/speed_up_ed.png">
+  <img width="420" height="280" src="https://github.com/Anteii/HPC-Labs/blob/main/lab1/resources/speed_up_3d.png">
 </p>
