@@ -3,6 +3,6 @@
 ## This repository contains my labs for HPC course.
 
 - [x] Matrix multiplication
-- [ ] Vector reduction (in progress)
-- [ ] Spectrograms (CUFFT, FFTW)
+- [x] Vector reduction
+- [ ] Spectrograms (CUFFT, FFTW) -- in progress
 - [ ] Mass search
