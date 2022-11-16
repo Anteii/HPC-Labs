@@ -4,5 +4,5 @@
 
 - [x] Matrix multiplication
 - [x] Vector reduction
-- [ ] Spectrograms (CUFFT, FFTW) -- in progress
-- [ ] Mass search
+- [x] Spectrograms (CUFFT, FFTW) 
+- [ ] Mass search -- in progress
