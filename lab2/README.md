@@ -14,7 +14,7 @@ This jupyter notebook was executed in google colab for several reasons:
 
 All cells that starts with magic %%cu is interpreted as C++/CUDA code and therefore compiled with nvcc
 
-Jupyter notebook consists of four chapters:
+Jupyter notebook consists of three chapters:
 - Notebook Setup (installing necessary pluging and GPU test)
 - Vector reduction (C++/CUDA program implementation and execution)
 - Visualization (plots with python matplotlib)
