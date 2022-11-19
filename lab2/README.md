@@ -69,12 +69,12 @@ There were conducted experiments with different vectors sizes.
 
 
 <p align="center">
-  Reduction time for CPU and GPU
+  Reduction time for CPU and GPU<br>
   <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab2/resources/times_of_dim.png"/>
 </p>
 
 
 <p align="center">
-       Speed up for GPU version     
+  Speed up for GPU version<br>   
   <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab2/resources/speed_up_of_dim.png">
 </p>
