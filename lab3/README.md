@@ -34,26 +34,27 @@
 Также были произведены замеры времени работы программ (для программы с cuFFT был произведен раздельный замер коммуникаций и вычислений).
 
 <p align="center">
-  <p align="center">Время, затраченное на пересылку данных(cuFFT)</p>
-  <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab3/resources/cufft_transfer_barplot.png"/>
+  Время, затраченное на пересылку данных(cuFFT)<br>
+  <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab3/resources/cufft_transfer_barplot.jpg"/>
 </p>
 
 <p align="center">
-  <p align="center">Время, затраченное на вычисления (cuFFT)</p>
-  <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab3/resources/cufft_calc_barplot.png"/>
+  Время, затраченное на вычисления (cuFFT)<br>
+  <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab3/resources/cufft_calc_barplot.jpg"/>
 </p>
 
 <p align="center">
-  <p align="center">Общее время, затраченное на вычисление спектрограммы (cuFFT)</p>
-  <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab3/resources/cufft_barplot.png"/>
+  Общее время, затраченное на вычисление спектрограммы (cuFFT)<br>
+  <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab3/resources/cufft_barplot.jpg"/>
 </p>
 
 <p align="center">
-  <p align="center">Время работы FFTW программы</p>
-  <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab3/resources/fftw_barplot.png"/>
+  Время работы FFTW программы<br>
+  <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab3/resources/fftw_barplot.jpg"/>
 </p>
 
+
 <p align="center">
-  <p align="center">Ускорение, получаемое при переходе от FFTW к cuFFT</p>
-  <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab3/resources/speed_up.png"/>
+  Ускорение, получаемое при переходе от FFTW к cuFFT<br>
+  <img width="600" height="300" src="https://github.com/Anteii/HPC-Labs/blob/main/lab3/resources/speed_up.jpg"/>
 </p>
